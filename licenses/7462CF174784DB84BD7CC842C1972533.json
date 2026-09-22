@@ -2,7 +2,7 @@
     "licenseId":  "7462CF174784DB84BD7CC842C1972533",
     "machineId":  "DP-00D8-A377-4B8E",
     "licensedTo":  "mk",
-    "status":  "ACTIVE",
-    "reason":  null,
-    "updatedAt":  "2026-09-21T22:32:02.6906433Z"
+    "status":  "SUSPENDED",
+    "reason":  "Payment pending",
+    "updatedAt":  "2026-09-22T16:39:27.4402425Z"
 }

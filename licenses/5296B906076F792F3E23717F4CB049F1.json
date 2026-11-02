@@ -1,11 +1,11 @@
 {
-    "licenseId":  "5296B906076F792F3E23717F4CB049F1",
-    "machineId":  "DP-00D8-A377-4B8E",
-    "status":  "SUSPENDED",
-    "licensedTo":  "mk",
-    "signature":  "vxxHNgoNwckN-fQUZLsuiz5aTV9dCUBLByCQ5p8MfOOSSuHpFVSe7AiSg6TN_hXSXgqCcnyUor6Qs6I7w39kAA",
-    "version":  1,
-    "product":  "darzi_plus",
-    "reason":  "Bhaiiii checking",
-    "updatedAt":  "2026-09-23T00:39:51.7791873Z"
+  "licenseId": "5296B906076F792F3E23717F4CB049F1",
+  "machineId": "DP-00D8-A377-4B8E",
+  "status": "ACTIVE",
+  "licensedTo": "mk",
+  "signature": "Q7EEIuUDeztoxmPkV76OGEYgFXnEXJ0wxKOmr7P3Xzh3-6ilDAMWa_REwx0TpH55TPLTd7rY0P3252F2wyU5BA",
+  "version": 1,
+  "product": "darzi_plus",
+  "reason": null,
+  "updatedAt": "2026-11-02T12:27:56.4297742Z"
 }
